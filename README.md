@@ -74,6 +74,7 @@ Currently leading software development at **Kaffee Partner GmbH** — driving ar
       <img src="https://img.shields.io/badge/Backend-374151?style=flat-square" /><br/>
     </td>
   </tr>
+  <tr><td colspan="2"><br/></td></tr>
   <tr>
     <td width="60" align="center">
       <img src="https://img.shields.io/badge/☕-6F4E37?style=for-the-badge" /><br/>
