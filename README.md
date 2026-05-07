@@ -62,12 +62,26 @@ Currently leading software development at **Kaffee Partner GmbH** — driving ar
 <table>
   <tr>
     <td width="60" align="center">
+      <img src="https://img.shields.io/badge/💚-161528?style=for-the-badge" /><br/>
+      <sub><b>Kaffee<br/>Partner</b></sub>
+    </td>
+    <td>
+      <strong>Software Engineer</strong> &nbsp;
+      <img src="https://img.shields.io/badge/05%2F2026–present-1edc82?style=flat-square&logoColor=white" /><br/>
+      <em>GuideCom AG · Münster</em><br/><br/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+      <img src="https://img.shields.io/badge/Backend-374151?style=flat-square" /><br/>
+    </td>
+  </tr>
+  <tr>
+    <td width="60" align="center">
       <img src="https://img.shields.io/badge/☕-6F4E37?style=for-the-badge" /><br/>
       <sub><b>Kaffee<br/>Partner</b></sub>
     </td>
     <td>
       <strong>Technical Lead Software Development</strong> &nbsp;
-      <img src="https://img.shields.io/badge/11%2F2024–present-22C55E?style=flat-square&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/11%2F2024–04%2F2026-6F4E37?style=flat-square&logoColor=white" /><br/>
       <em>Kaffee Partner GmbH · Osnabrück</em><br/><br/>
       <img src="https://img.shields.io/badge/Architecture-ED8B00?style=flat-square" />
       <img src="https://img.shields.io/badge/AI_Workflows-412991?style=flat-square&logo=openai&logoColor=white" />
@@ -84,7 +98,7 @@ Currently leading software development at **Kaffee Partner GmbH** — driving ar
     </td>
     <td>
       <strong>Software Developer · Dynamics 365 CRM</strong> &nbsp;
-      <img src="https://img.shields.io/badge/07%2F2021–10%2F2024-3B82F6?style=flat-square&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/07%2F2021–10%2F2024-6F4E37?style=flat-square&logoColor=white" /><br/>
       <em>Kaffee Partner GmbH · Osnabrück</em><br/><br/>
       <img src="https://img.shields.io/badge/Microsoft_Dynamics_365-002050?style=flat-square&logo=microsoft&logoColor=white" />
       <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
