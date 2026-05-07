@@ -63,7 +63,7 @@ Currently leading software development at **Kaffee Partner GmbH** — driving ar
   <tr>
     <td width="60" align="center">
       <img src="https://img.shields.io/badge/💚-161528?style=for-the-badge" /><br/>
-      <sub><b>Kaffee<br/>Partner</b></sub>
+      <sub><b>GuideCom AG</b></sub>
     </td>
     <td>
       <strong>Software Engineer</strong> &nbsp;
